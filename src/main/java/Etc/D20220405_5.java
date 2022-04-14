@@ -1,3 +1,5 @@
+package Etc;
+
 public class D20220405_5 {
     public static void main(String[] args) {
         int hap = 0;

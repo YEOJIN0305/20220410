@@ -1,3 +1,5 @@
+package Etc;
+
 public class D20220406_6 {
     public static void main(String[] args) {//5팩토리얼 계산
         int a = 1;
