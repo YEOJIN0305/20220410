@@ -1,3 +1,5 @@
+package Etc;
+
 public class Date3_23_4 {
     public static void main(String[] args) {
         int a = 2, b = 3, c = 4;
